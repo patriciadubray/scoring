@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/patri/Desktop/P7/mlruns/0/24c3915626c44b70a5e8534a01bea58d/artifacts
+end_time: 1685873040747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24c3915626c44b70a5e8534a01bea58d
+run_name: nimble-whale-127
+run_uuid: 24c3915626c44b70a5e8534a01bea58d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685873026738
+status: 3
+tags: []
+user_id: patri

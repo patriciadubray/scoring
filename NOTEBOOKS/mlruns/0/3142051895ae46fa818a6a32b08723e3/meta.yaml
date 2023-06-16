@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/patri/Desktop/P7/mlruns/0/3142051895ae46fa818a6a32b08723e3/artifacts
+end_time: 1685873043793
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3142051895ae46fa818a6a32b08723e3
+run_name: luxuriant-bee-862
+run_uuid: 3142051895ae46fa818a6a32b08723e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685873040764
+status: 3
+tags: []
+user_id: patri

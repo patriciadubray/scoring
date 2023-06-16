@@ -1,0 +1,7 @@
+Deux points de terminaison semblent être les fonctionnalités principales à tester :
+
+test_predict_endpoint teste le point de terminaison /predict, qui est responsable de la prédiction et du renvoi des résultats. 
+Ce test envoie une requête POST avec des données de test, puis vérifie si la réponse est conforme à la structure attendue.
+
+test_download_summary_plot_endpoint teste le point de terminaison /download/summary_plot, qui permet de télécharger le fichier de tracé résumé généré par l'API. 
+Ce test envoie une requête GET pour télécharger le fichier, puis vérifie si la réponse est conforme (code de statut, type de contenu, contenu non vide).
