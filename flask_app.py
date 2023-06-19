@@ -6,6 +6,7 @@ import os
 from flask import Flask, jsonify, request, send_file
 
 # ajout commentaire, test workflow
+# ajout commentaire, test 2 workflow
 
 os.environ["MKL_NUM_THREADS"] = "1"
 os.environ["NUMEXPR_NUM_THREADS"] = "1"
